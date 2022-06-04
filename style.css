@@ -1,0 +1,22 @@
+
+body{
+    background-color: #ecf0f1;
+    margin: 0px;
+}
+.section-container{
+    background-color: #bdc3c7;
+}
+.filledd{
+    font-size: 35px;
+    font-weight: 35px;
+}
+.filled{
+    
+    font-size: 25px;
+}
+.font{
+    font-size: 10px;
+}
+.text{
+    color: rgb(18, 18, 126);
+}
